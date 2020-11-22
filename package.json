@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sayuri0709/typescript-for-javascript-lessons#readme",
   "devDependencies": {
+    "ts-node": "^8.6.2",
     "typescript": "^3.7.5"
   }
 }
