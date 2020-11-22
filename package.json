@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sayuri0709/typescript-for-javascript-lessons/issues"
   },
-  "homepage": "https://github.com/sayuri0709/typescript-for-javascript-lessons#readme"
+  "homepage": "https://github.com/sayuri0709/typescript-for-javascript-lessons#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
